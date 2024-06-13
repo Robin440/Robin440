@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D35AQE9YDdv_3T_yQ/profile-framedphoto-shrink_400_400/0/1695225830603?e=1696860000&v=beta&t=cODK_jOQRjS59UVdAOXi8Al3GEm_4Vrc9CmeXMkBbFY)
 <h1 align="center">Hi 👋, I'm Robin Rajan</h1>
-<h3 align="center">Code Artisan | Crafting Python & Django Magic</h3>
+<h3 align="center">Python Django Backend Developer | Crafting Python & Django Magic</h3>
 
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/200w.webp?cid=ecf05e47cit6ai6ak84smq8a96rirdl8gwwn9592sdpgfw55&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
