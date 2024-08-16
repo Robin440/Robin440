@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **robinrajan440@gmail.com**
 
-- 📄 Know about my experiences [https://charming-dragon-0055a3.netlify.app/](https://charming-dragon-0055a3.netlify.app/)
+- 📄 Know about my experiences [robinrajan.com/](https://robinrajan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
