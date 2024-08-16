@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working as Python Django Backend Developer
 
 - 👨‍💻 To learn more about me visit ➡️ [robinrajan.com/](https://robinrajan.netlify.app/)
 
