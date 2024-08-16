@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Ecommerce**
 
-- 👨‍💻 All of my projects are available at [https://charming-dragon-0055a3.netlify.app/](https://charming-dragon-0055a3.netlify.app/)
+- 👨‍💻 To learn more about me visit ➡️ [robinrajan.com/](https://robinrajan.netlify.app/)
 
 - 💬 Ask me about **Python & Django**
 
