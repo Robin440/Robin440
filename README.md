@@ -14,7 +14,7 @@
 
 - 👨‍💻 To learn more about me visit ➡️ [robinrajan.com/](https://robinrajan.netlify.app/)
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about **Python , GenAI, LLMs , Prompts , FastAPI and  Django**
 
 - 📫 How to reach me **robinrajan440@gmail.com**
 
